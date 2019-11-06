@@ -13,6 +13,7 @@ df2 = pd.DataFrame({'A': 1.,
                     'D': np.array([3] * 4, dtype='int32'),
                     'E': pd.Categorical(["test", "train", "test", "train"]),
                     'F': 'foo'})
+# ddd
 # print(df2)
 # print(df2.dtypes)
 # df2.<Tab>
